@@ -1,5 +1,8 @@
+# Gradle
 .gradle
-build/
+gradle
+gradlew*
+build
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -9,3 +12,10 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+# IntelliJ
+.idea/
+*.iml
+
+# Emacs
+*~
